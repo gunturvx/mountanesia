@@ -1,0 +1,73 @@
+@media print{
+   .u-section-1 {
+  background-image: url("images/lamb-sng-I3IhcfxZ3IE-unsplash.jpg") !important;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1004px !important;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 600px !important;
+  height: 668px !important;
+  box-shadow: 2px 2px 10px 0 rgba(128,128,128,1) !important;
+  text-shadow: 2px 0 10px rgba(0,0,0,0) !important;
+  animation-duration: 1000ms !important;
+  margin: 114px auto 0 !important;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700 !important;
+  line-height: 36px !important;
+  letter-spacing: normal !important;
+  text-decoration: none solid rgb(17, 17, 17) !important;
+  margin: -642px auto 0 !important;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 55px 686px 0 289px !important;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 6px 686px 0 289px !important;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 27px 686px 0 289px !important;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 6px 686px 0 289px !important;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 27px 686px 0 289px !important;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 6px 686px 0 289px !important;
+}
+
+.u-section-1 .u-text-8 {
+  margin: 27px 686px 0 289px !important; 
+}
+
+.u-section-1 .u-text-9 {
+  margin: 6px 605px 0 289px !important;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid !important;
+  font-weight: 700 !important;
+  font-size: 0.9375rem !important;
+  background-image: none !important;
+  margin: 69px auto 0 !important;
+  padding: 17px 62px 17px 61px !important;
+}
+
+.u-section-1 .u-text-10 {
+  width: 261px !important;
+  margin: 27px auto 60px !important;
+}
+
+}
